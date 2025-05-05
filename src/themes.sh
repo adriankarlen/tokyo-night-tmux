@@ -97,7 +97,8 @@ case $SELECTED_THEME in
     ["bred"]="#d89736"
     ["bwhite"]="#c7c8cb"
     ["byellow"]="#dfc491"
-
+  )
+  ;;
 
 *)
   # Default to night theme
