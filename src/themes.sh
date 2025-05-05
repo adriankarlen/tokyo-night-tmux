@@ -76,6 +76,29 @@ case $SELECTED_THEME in
   )
   ;;
 
+"bloom-faerie")
+  declare -A THEME=(
+    ["background"]="#18191b"
+    ["foreground"]="#c7c8cb"
+    ["black"]="#222325"
+    ["green"]="#7daeab"
+    ["blue"]="#919294"
+    ["cyan"]="#c188c1"
+    ["magenta"]="#a89af3"
+    ["red"]="#d89736"
+    ["white"]="#c7c8cb"
+    ["yellow"]="#dfc491"
+
+    ["bblack"]="#222325"
+    ["bblue"]="#919294"
+    ["bcyan"]="#c188c1"
+    ["bgreen"]="#7daeab"
+    ["bmagenta"]="#a89af3"
+    ["bred"]="#d89736"
+    ["bwhite"]="#c7c8cb"
+    ["byellow"]="#dfc491"
+
+
 *)
   # Default to night theme
   declare -A THEME=(
