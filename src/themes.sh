@@ -94,7 +94,7 @@ case $SELECTED_THEME in
     ["bcyan"]="#BE9DB8"
     ["bgreen"]="#B1C89D"
     ["bmagenta"]="#9FC6C5"
-    ["bred"]="#C5727A"
+    ["bred"]="#D08770"
     ["bwhite"]="#D8DEE9"
     ["byellow"]="#EFD49F"
   )
