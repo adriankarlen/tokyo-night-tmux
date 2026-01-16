@@ -76,27 +76,28 @@ case $SELECTED_THEME in
   )
   ;;
 
-"bloom-faerie")
+"nordic")
   declare -A THEME=(
-    ["background"]="#18191b"
-    ["foreground"]="#c7c8cb"
-    ["black"]="#222325"
-    ["green"]="#7daeab"
-    ["blue"]="#919294"
-    ["cyan"]="#c188c1"
-    ["magenta"]="#a89af3"
-    ["red"]="#d89736"
-    ["white"]="#c7c8cb"
-    ["yellow"]="#dfc491"
+    ["background"]="#1E222A"
+    ["foreground"]="#C0C8D8"
+    ["black"]="#191D24"
+    ["green"]="#A3BE8C"
+    ["blue"]="#5E81AC"
+    ["cyan"]="#8FBCBB"
+    ["magenta"]="#B48EAD"
+    ["red"]="#BF616A"
+    ["white"]="#C0C8D8"
+    ["yellow"]="#EBCB8B"
 
-    ["bblack"]="#222325"
-    ["bblue"]="#919294"
-    ["bcyan"]="#c188c1"
-    ["bgreen"]="#7daeab"
-    ["bmagenta"]="#a89af3"
-    ["bred"]="#d89736"
-    ["bwhite"]="#c7c8cb"
-    ["byellow"]="#dfc491"
+    ["bblack"]="#3B4252"
+    ["bblue"]="#88C0D0"
+    ["bcyan"]="#BE9DB8"
+    ["bgreen"]="#B1C89D"
+    ["bmagenta"]="#
+FC6C5"
+    ["bred"]="#C5727A"
+    ["bwhite"]="#D8DEE9"
+    ["byellow"]="#EFD49F"
   )
   ;;
 
