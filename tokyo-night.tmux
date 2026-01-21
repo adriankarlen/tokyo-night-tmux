@@ -27,7 +27,6 @@ tmux set -g pane-active-border-style "fg=${THEME[blue]}"
 tmux set -g pane-border-status off
 
 tmux set -g status-style bg="${THEME[background]}"
-tmux set -g popup-border-style "fg=${THEME[blue]}"
 
 TMUX_VARS="$(tmux show -g)"
 
